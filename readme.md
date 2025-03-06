@@ -30,7 +30,7 @@ These cores are included pre-built with the repository (ROMs **NOT** included):
 * Vecx (Vectrex)
 * Virtual Jaguar (Atari Jaguar)
 * Yabause (Sega Saturn)
-
+* Playstation 1
 ## Table of contents
 * [Top](#webretro)
 * [Table of contents](#table-of-contents)
